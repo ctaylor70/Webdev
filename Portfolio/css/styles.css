@@ -1,0 +1,62 @@
+/*
+  Name: Caleb Taylor
+  File: styles.css
+  Date: 9/27/2022
+*/
+
+/*CSS reset*/
+header body nav footer {
+  padding: 0 0 0 0 ;
+  margin: 0;
+}
+
+/*Image styles*/
+img {
+  max-width: 100%;
+  max-width: 50%;
+  height: 50%;
+  max-height: 50%;
+  display: block;
+  align-content: center;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+}
+
+/*header styles*/
+header {
+  text-align: center;
+}
+
+header h1 {
+  color: blue;
+  background-color: yellow;
+  margin: 5%;
+}
+
+/*Nav styles*/
+nav {
+  text-align: center;
+}
+
+nav ul {
+  list-style-type: none;
+}
+
+/*body styles*/
+body p {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+/*Anchor Styles*/
+a {
+  text-decoration: none;
+}
+
+#thing {
+  text-align: left;
+}
+
+
